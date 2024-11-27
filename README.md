@@ -1,7 +1,4 @@
 # ProLub Aditivos e Lubrificantes
-* <a href='https://app.powerbi.com/view?r=eyJrIjoiNTMzZGQ5ZjEtMmVhNy00NjUzLWFmMzEtNmZhZTI1MmQyMjZmIiwidCI6IjI3ZDc2NTU2LTFlNjktNGVhYS1iYTg5LTcwNDhkNGI4NjViZiJ9'>Acesse o resultado do dashboard aqui</a>
-
-<br/>
 
 ## Visão geral
 <img align='right' width='60%' src='https://github.com/thiago-albuquerque/prolub/blob/main/Design/images/print_overview.PNG?raw=true'/>
@@ -38,6 +35,5 @@ A capacidade de transformar dados complexos em informações claras e concisas �
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
-    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
     <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
 </div>
