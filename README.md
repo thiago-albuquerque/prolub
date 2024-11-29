@@ -1,4 +1,5 @@
 # ProLub Aditivos e Lubrificantes
+* <a href="https://app.powerbi.com/view?r=eyJrIjoiY2JlNzNmMjItYTI1Mi00NTZmLTg4MzktOGNjODMxZjViMjkwIiwidCI6IjZlNTRiMDEwLWRhOGItNDQzYi04OTQ4LTc1NDA3MGNhYTg3MSJ9">Acesse o dashboard interativo aqui</a>
 
 ## Visão geral
 <img align='right' width='60%' src='https://github.com/thiago-albuquerque/prolub/blob/main/Design/images/print_overview.PNG?raw=true'/>
